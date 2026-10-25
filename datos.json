@@ -1,0 +1,412 @@
+[
+  {
+    "simbolo": "C2",
+    "longitud": 12.3,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": null,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 18
+  },
+  {
+    "simbolo": "C3",
+    "longitud": 13.2,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": null,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 25
+  },
+  {
+    "simbolo": "C4",
+    "longitud": 13.2,
+    "eje_delantero": 7,
+    "eje1": 25,
+    "eje2": null,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 32
+  },
+  {
+    "simbolo": "8x4",
+    "longitud": 13.2,
+    "eje_delantero": "7+7",
+    "eje1": 18,
+    "eje2": null,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 32
+  },
+  {
+    "simbolo": "T2S1 o 2S1",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 11,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 29
+  },
+  {
+    "simbolo": "T2S2 o 2S2",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 18,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 36
+  },
+  {
+    "simbolo": "T2Se2",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 11,
+    "eje3": 11,
+    "eje4": null,
+    "peso_bruto": 40
+  },
+  {
+    "simbolo": "T2S3 o 2S3",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 25,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 43
+  },
+  {
+    "simbolo": "T2Se3",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 11,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 47
+  },
+  {
+    "simbolo": "T3S1 o 3S1",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 36
+  },
+  {
+    "simbolo": "T3S2 o 3S2",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 18,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 43
+  },
+  {
+    "simbolo": "T3Se2",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": 11,
+    "eje4": null,
+    "peso_bruto": 47
+  },
+  {
+    "simbolo": "T3S3 o 3S3",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 25,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "T3Se3",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "C2R2 o 2T2",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 11,
+    "eje3": 11,
+    "eje4": null,
+    "peso_bruto": 40
+  },
+  {
+    "simbolo": "C2R3 o 2T3",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 11,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 47
+  },
+  {
+    "simbolo": "C3R2 o 3T2",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": 11,
+    "eje4": null,
+    "peso_bruto": 47
+  },
+  {
+    "simbolo": "C3R3 o 3T3",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "CR3R4 o 3T4",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 18,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "C4R2",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 25,
+    "eje2": 11,
+    "eje3": 11,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "C4R3",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 25,
+    "eje2": 11,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "8x4R2",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": 11,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "8x4R3",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "8x4R4",
+    "longitud": 23,
+    "eje_delantero": "7+7",
+    "eje1": 18,
+    "eje2": 18,
+    "eje3": 18,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "C2RB1",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 11,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 29
+  },
+  {
+    "simbolo": "C2RB2",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 18,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 36
+  },
+  {
+    "simbolo": "C2RB3",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 25,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 43
+  },
+  {
+    "simbolo": "C3RB1",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 36
+  },
+  {
+    "simbolo": "C3RB2",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 18,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 43
+  },
+  {
+    "simbolo": "C3RB3",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 25,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "C4RB1",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 11,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 43
+  },
+  {
+    "simbolo": "C4RB2",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 18,
+    "eje2": 18,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "C4RB3",
+    "longitud": 20.5,
+    "eje_delantero": 7,
+    "eje1": 25,
+    "eje2": 25,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "8x4RB1",
+    "longitud": 20.5,
+    "eje_delantero": "7+7",
+    "eje1": 18,
+    "eje2": 11,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 43
+  },
+  {
+    "simbolo": "8x4RB2",
+    "longitud": 20.5,
+    "eje_delantero": "7+7",
+    "eje1": 18,
+    "eje2": 18,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "8x4RB3",
+    "longitud": 20.5,
+    "eje_delantero": "7+7",
+    "eje1": 18,
+    "eje2": 25,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "T2S2S3",
+    "longitud": 23,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 18,
+    "eje3": 11,
+    "eje4": 18,
+    "peso_bruto": 48
+  },
+  {
+    "simbolo": "B2",
+    "longitud": 13.2,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": null,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 18
+  },
+  {
+    "simbolo": "B3-1",
+    "longitud": 14,
+    "eje_delantero": 7,
+    "eje1": 16,
+    "eje2": null,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 23
+  },
+  {
+    "simbolo": "B4-1",
+    "longitud": 15,
+    "eje_delantero": "7+7",
+    "eje1": 16,
+    "eje2": null,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 30
+  },
+  {
+    "simbolo": "BA-1",
+    "longitud": 18.3,
+    "eje_delantero": 7,
+    "eje1": 11,
+    "eje2": 7,
+    "eje3": null,
+    "eje4": null,
+    "peso_bruto": 25
+  }
+]
