@@ -1,22 +1,13 @@
-BUSCADOR VEHICULAR - PUBLICAR EN GITHUB PAGES
+BUSCADOR VEHICULAR - VERSION ROJO ELECTRICO
 
-Archivos necesarios:
-- index.html: página web
-- datos.json: datos extraídos del Excel
+Archivos:
+- index.html: pagina web con el diseño rojo eléctrico.
+- datos.json: registros consultados por el buscador.
+- logo-utp.png: debes agregar el archivo de imagen del logo UTP en esta misma carpeta.
 
-Para publicarlo:
-1. Entra en https://github.com e inicia sesión.
-2. Pulsa el + y selecciona New repository.
-3. Ponle un nombre, por ejemplo buscador-vehicular.
-4. Selecciona Public (si los datos no son confidenciales) y crea el repositorio.
-5. Pulsa Add file > Upload files.
-6. Sube index.html y datos.json (puedes subir también este LEEME.txt).
-7. Pulsa Commit changes.
-8. Ve a Settings > Pages.
-9. En Build and deployment, elige Deploy from a branch.
-10. Selecciona Branch: main y Folder: /(root), luego Save.
-11. Espera unos minutos y vuelve a Settings > Pages. Aparecerá el enlace público.
+Para publicar en GitHub Pages:
+1. Sube index.html y datos.json a la raíz del repositorio.
+2. Si quieres mostrar el logo, sube también logo-utp.png a la misma raíz.
+3. En Settings > Pages, configura Deploy from a branch, rama main y carpeta /(root).
 
-IMPORTANTE: index.html y datos.json deben quedar en la raíz del repositorio, juntos. GitHub Pages publica el contenido como sitio web.
-
-NOTA SOBRE EL EXCEL: la columna DIAGRAMA en la hoja de datos contiene #VALUE!, por lo que esta primera versión no muestra diagramas. Los campos vacíos aparecen como guiones. Verifica los datos y la normativa aplicable antes de uso operativo.
+El HTML referencia el logo mediante ./logo-utp.png. Si el archivo no existe, el logo no aparecerá; la página y la búsqueda seguirán funcionando.
